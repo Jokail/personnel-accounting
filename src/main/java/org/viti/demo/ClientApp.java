@@ -98,7 +98,7 @@ public class ClientApp extends Application {
         contentVBox.setAlignment(javafx.geometry.Pos.CENTER);
         contentVBox.setStyle("-fx-background-color: #445c36; -fx-padding: 20px;");
 
-        Text header = new Text("ГОЦЗІ та КБ в ІТС\nТАБЛО КОНТРОЛЮ ПРИБУТТЯ");
+        Text header = new Text("ТАБЛО КОНТРОЛЮ ПРИБУТТЯ");
         header.setFont(new Font("San Francisco", 28));
         header.setFill(Color.WHITE);
         header.setStyle("-fx-font-weight: bold;");
